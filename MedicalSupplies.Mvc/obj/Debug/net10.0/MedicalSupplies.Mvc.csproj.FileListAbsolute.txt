@@ -21,7 +21,6 @@ D:\Some study shit idk wtf is it\Aspnet\MedicalSupplies\MedicalSupplies.Mvc\obj\
 D:\Some study shit idk wtf is it\Aspnet\MedicalSupplies\MedicalSupplies.Mvc\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Some study shit idk wtf is it\Aspnet\MedicalSupplies\MedicalSupplies.Mvc\obj\Debug\net10.0\scopedcss\bundle\MedicalSupplies.Mvc.styles.css
 D:\Some study shit idk wtf is it\Aspnet\MedicalSupplies\MedicalSupplies.Mvc\obj\Debug\net10.0\scopedcss\projectbundle\MedicalSupplies.Mvc.bundle.scp.css
-D:\Some study shit idk wtf is it\Aspnet\MedicalSupplies\MedicalSupplies.Mvc\obj\Debug\net10.0\compressed\z9o28jlsg4-{0}-b9sayid5wm-b9sayid5wm.gz
 D:\Some study shit idk wtf is it\Aspnet\MedicalSupplies\MedicalSupplies.Mvc\obj\Debug\net10.0\compressed\j8u0shfz60-{0}-61n19gt1b8-61n19gt1b8.gz
 D:\Some study shit idk wtf is it\Aspnet\MedicalSupplies\MedicalSupplies.Mvc\obj\Debug\net10.0\compressed\bjsgf2opas-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 D:\Some study shit idk wtf is it\Aspnet\MedicalSupplies\MedicalSupplies.Mvc\obj\Debug\net10.0\compressed\sxbuks05pz-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -95,3 +94,5 @@ D:\Some study shit idk wtf is it\Aspnet\MedicalSupplies\MedicalSupplies.Mvc\obj\
 D:\Some study shit idk wtf is it\Aspnet\MedicalSupplies\MedicalSupplies.Mvc\obj\Debug\net10.0\MedicalSupplies.Mvc.pdb
 D:\Some study shit idk wtf is it\Aspnet\MedicalSupplies\MedicalSupplies.Mvc\obj\Debug\net10.0\MedicalSupplies.Mvc.genruntimeconfig.cache
 D:\Some study shit idk wtf is it\Aspnet\MedicalSupplies\MedicalSupplies.Mvc\obj\Debug\net10.0\ref\MedicalSupplies.Mvc.dll
+D:\Some study shit idk wtf is it\Aspnet\MedicalSupplies\MedicalSupplies.Mvc\obj\Debug\net10.0\MedicalSupplies.Mvc.sourcelink.json
+D:\Some study shit idk wtf is it\Aspnet\MedicalSupplies\MedicalSupplies.Mvc\obj\Debug\net10.0\compressed\z9o28jlsg4-{0}-93qaumdh4c-93qaumdh4c.gz
